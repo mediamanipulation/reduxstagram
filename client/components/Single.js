@@ -10,7 +10,7 @@ const Single = React.createClass({
     const post = this.props.posts[i];
     const postComments = this.props.comments[postId] || [];
 
-    console.log(post);
+    //console.log(post);
 
     return (
       <div className="single-photo">
