@@ -9,7 +9,7 @@ const posts = [
    {
       "code":"BAcJeJrQca9",
       "caption":"Snow! ⛄️🌨❄️ #lifewithsnickers",
-      "likes":59,
+      "likes":67,
       "id":"1160844458347054781",
       "display_src":"https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/12407344_1283694208323785_735653395_n.jpg"
    },

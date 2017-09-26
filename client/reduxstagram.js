@@ -19,8 +19,8 @@ const router = (
   <Provider store={store}>
     <Router history={history}>
       <Route path="/" component={App}>
-        <IndexRoute component={PhotoGrid}> eat me</IndexRoute>
-        <Route path="/view/:postId" component={Single}>drink me</Route>
+        <IndexRoute component={PhotoGrid}></IndexRoute>
+        <Route path="/view/:postId" component={Single}></Route>
       </Route>
     </Router>
   </Provider>
